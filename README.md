@@ -152,7 +152,10 @@ The dataset includes the following variables:
 9. Subscription Duration : The duration of each purchased subscription
 
 ## BASIC STATISTICS IN THE DATASET
-
+1. Total Revenue : 68M
+2. Average Revenue: 2.0K
+3. Average Duration : 365.4
+4. Total Customer : 34.0K
 
 ## METHODOLOGY
 ### Data Cleaning
